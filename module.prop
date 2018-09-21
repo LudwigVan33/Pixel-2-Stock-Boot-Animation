@@ -1,0 +1,7 @@
+id=pxba2
+name=Pixel 2 Stock Boot Animation
+version=v1.0
+versionCode=1
+author=Ludwig33
+description=Systemless replaces your stock boot animation whit Pixel 2 one. Based on PPR2.180905.005 build, resolution stock 1080x1920.
+minMagisk=17000
